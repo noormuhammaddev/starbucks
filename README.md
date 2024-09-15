@@ -52,5 +52,5 @@ This project is a full-stack blog post management application where users can cr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blog-app
-   cd blog-app/frontend
+   git clone https://github.com/noormuhammaddev/starbucks.git
+   cd starbucks
